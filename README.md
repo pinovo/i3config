@@ -4,6 +4,8 @@ This is my personal i3wm config file with some scripts for i3blocks. Nothing els
 ## Dependencies
 ### Archlinux packages
 - python-netifaces
+- picom
+- nitrogen
 
 ### Fonts
 - Source Code Pro Semibold
